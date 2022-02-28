@@ -1,0 +1,185 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to Francis Bugg's presumptuous impeachment, pretended on behalf of the Commons of England, against the Quakers yearly-meeting.</title>
+            <author>Vaughton, John, 1644-1712.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95840</idno>
+            <idno type="STC">Wing V157</idno>
+            <idno type="STC">ESTC R224275</idno>
+            <idno type="EEBO-CITATION">47683521</idno>
+            <idno type="OCLC">ocm 47683521</idno>
+            <idno type="VID">172978</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95840)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172978)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2660:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to Francis Bugg's presumptuous impeachment, pretended on behalf of the Commons of England, against the Quakers yearly-meeting.</title>
+                  <author>Vaughton, John, 1644-1712.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signed on p. 8 by John Vaughton, Samuel Watson, John Field, Thomas Lower, William Bingley.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bugg, Francis, 1640-1727.</term>
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:172978:1" rendition="simple:additions"/>
+            <head>AN ANSWER TO Francis Bugg's Preſumptuous Impeachment, Pretended on Behalf of the Commons of <hi>England,</hi> againſt the QUAKERS Yearly-Meeting.</head>
+            <p>PAſſing by a great number of this Apoſtates Lies, Raileries, and Foul Calumnies in his ſaid Pamphlet, let's a little ob<g ref="char:EOLhyphen"/>ſerve his Pretended <hi>Impeachment</hi> againſt our ſaid Yearly Meeting in 1693. <hi>viz. That they did Contrive, Make, and Promulgate ſeveral Conſtitutions, and Canons Eccleſiaſtical, containing in them divers Matters and Things, contrary to the Fundamental Laws and Statutes of the Realm, againſt the King's Prerogative, againſt the Rights of Parlia<g ref="char:EOLhyphen"/>ments, againſt the Property and Liberty of the Subject, and Matters tend<g ref="char:EOLhyphen"/>ing to Sedition, and of Dangerous Conſequence.</hi> Thus far <hi>F. Bugg,</hi> &amp;c.</p>
+            <p>We'll Poſtpone the Queſtion of his Authority for ſuch Impeach<g ref="char:EOLhyphen"/>ment until ſome other Opportunity, and come to the Matter.</p>
+            <p>Alas poor Man! Whither will not Pride, Malice, and Conceit, hurry Men who have turn'd their Backs of Truth? But we ſincerely deny his Impeachment as very Abuſive, as well as deadly Malicious; for they were Two <hi>Epiſtles</hi> he thus accuſeth, the one in 1693. in 1692, and by himſelf ſo Term'd and Granted to be <hi>i. e. Epiſtles,</hi> and
+<pb n="2" facs="tcp:172978:2"/> conſequently not contrived Conſtitutions and Canons, but <hi>Epiſtles,</hi> wherein ſeveral Matters of Chriſtian Advice are <hi>recommended</hi> (and not Impoſed) as in the ſame Epiſtles is plainly declared, among which our Chriſtian Teſtimony Born, and Greatly Suffered for, a<g ref="char:EOLhyphen"/>gainſt the Oppreſſion of Tythes, <hi>&amp;c.</hi> is recommended to our Friends Due or Chriſtian Care for the maintaining thereof; (but with no ſuch Threat, as <hi>fail not at their Peril,</hi> as is moſt falſly obſerved; page 3.) This, together with our Friends deeming the Oppreſſion of Tythes, now in the Goſpel Day, Antichriſtian, our Adverſary renders ſuffi<g ref="char:EOLhyphen"/>cient proof of his <hi>Charge</hi> afore-cited; but his Inveterate Envy has blinded him therein: For, as it has been always our Principle, ſince we were a People, for Conſcience ſake to Chriſt, to refuſe the pay<g ref="char:EOLhyphen"/>ment of Tythes, as well as Oaths and Swearing, thereby not deſign<g ref="char:EOLhyphen"/>ing any Injury either to King or Government, but only to keep our Conſciences clear in the ſight of God, deſiring that none among us may wrong their Conſciences therein: So we are not Convinced, that it can be againſt the Fundamental Laws of the Land, either to deny Tythes now in this Goſpel Day, or to deem them Antichriſtian, as they were Impoſed by Popes, and Popiſh Laws, which are not the Fundamental Laws of this Realm, as falſly Charged; and our Teſti<g ref="char:EOLhyphen"/>mony herein does rather affect a Popiſh Clergy, than a Proteſtant Civil Government. Tho' it be a great Crime with our Adverſary, to count the <hi>Payment of Tythes to Prieſts, either Antichriſtian, or a de<g ref="char:EOLhyphen"/>nial of Chriſt come in the Fleſh;</hi> altho' many of the firſt Reform'd Pro<g ref="char:EOLhyphen"/>teſtants and Martyrs were of the ſame Judgment with us. And in ſome other Proteſtant Countreys, they are not impoſed nor payed to this day; nor is there any Perſecution for them.</p>
+            <q>
+               <p>Both <hi>John Wickcliff, William Swinderby, Walter Brute, William Thorp,</hi> the <hi>Bohemians,</hi> with others, mentioned in the Book of Martyrs, and o<g ref="char:EOLhyphen"/>thers, did bear Teſtimony againſt the Corruption of the Popiſh Clergy, and againſt Tythes, and Compelled Maintenance, by the Civil Au<g ref="char:EOLhyphen"/>thority, (and were not theſe Martyrs Chriſtians?) this of their op<g ref="char:EOLhyphen"/>poſing Tythes, was made a principal Article againſt them by the Pa<g ref="char:EOLhyphen"/>piſts, as more largely appears in the Firſt Volume of Martyrs, in the Reigns of <hi>Richard</hi> the Second, <hi>Henry</hi> the Fourth, and <hi>Henry</hi> the Fifth.</p>
+               <p>What a plain Teſtimony did <hi>John Wickcliff</hi> give againſt the Impoſition of Tythes and Temporalities, counting them pure Alms; and that the Diſciples of Chriſt have no power to exact by Civil Au<g ref="char:EOLhyphen"/>thority, Temporalities, or Temporal Things, by their Cenſures, which he vindicates, by Chriſt's forbidding his Apoſtles Civilly to
+<pb n="3" facs="tcp:172978:2"/> Reign, or bear any Lordſhip, as he ſaith from <hi>Luke</hi> 23. See Vol. I. Mart. Fol. 564, 566, 569.</p>
+            </q>
+            <p>And among other Articles gathered out of his Books by his Adver<g ref="char:EOLhyphen"/>ſaries, the Papiſts, there are theſe, <hi>viz.</hi>
+            </p>
+            <p n="1">1. All ſuch as be Hired for Temporal Living, to Pray for other, Offend, and Sin of Simony.</p>
+            <p n="2">2. To Enrich the Clergy is againſt the Rule of Chriſt.</p>
+            <p n="3">3. The Pope with all his Clergy, having thoſe Great Poſſeſſions as they have, be Hereticks in ſo having; and the Secular Powers in ſo Suffering them, do not well.</p>
+            <p n="4">4. There is no greater Heretick or Antichriſt, than that Clerk which teacheth, That it is Lawful for Prieſts and Levites of the Law of Grace, to be endued with Temporal Poſſeſſions. Vol. I. Fol. 587, 588.</p>
+            <p>This is that Famous <hi>John Wickcliff,</hi> as <hi>F. B.</hi> moſt highly commends him, p. 7. and yet moſt ſhamefully quarrels with the <hi>Quakers</hi> for re<g ref="char:EOLhyphen"/>newing and aſſerting his, and other Famous Proteſtants and Martyrs Teſtimonies againſt the Corruption of Prieſts, and Popiſh Impoſiti<g ref="char:EOLhyphen"/>on and Oppreſſion of Tythes.</p>
+            <p>Alſo <hi>Walter Brute,</hi> another Famous Proteſtant Witneſs, declared againſt the Payment of Tythes to Chriſt's Miniſters, and againſt their Prieſts having the Property of Tythes, Vol. I. Fol. 633. deeming their Claiming the ſame, to be a ſtarting back from Fervant Charity, a departing backward, <hi>&amp;c.</hi> Fol. <hi>Ibid.</hi>
+            </p>
+            <p>But more particularly to our preſent purpoſe, ſee the Ample Te<g ref="char:EOLhyphen"/>ſtimony given by <hi>William Thorp,</hi> who is Recorded to be a good Man, and Bleſſed Servant of God, and ſuppoſed to have died, either by be<g ref="char:EOLhyphen"/>ing ſecretly made away, or elſe by Sickneſs through his Cloſe Con<g ref="char:EOLhyphen"/>finement in Priſon;
+<note n="†" place="margin">Vol. I, of Mart. Fol. 700, 708. in K. <hi>Hen.</hi> IV. his Reign.</note> in his Examination before the Popiſh Archbiſhop, <hi>viz.</hi>
+               <q>St. <hi>Paul</hi> ſaith, That Tythes were given in the Old Law to Levites, and to Prieſts, that came of the Lineage of <hi>Levi;</hi> but our Prieſts he ſaith came not of the Lineage of <hi>Levi,</hi> but of the Lineage of <hi>Judah,</hi> to which <hi>Judah</hi> no Tythes were promiſed to be given; and therefore <hi>Paul</hi> ſaith, Since the Prieſthood is changed from the Generation of <hi>Levi,</hi> to the Generation of <hi>Judah,</hi>
+                  <note n="†" place="margin">
+                     <hi>Heb.</hi> 7.</note> it is neceſſary, that changing alſo be made of the Law, ſo that Prieſts live now without Tythes, <hi>&amp;c.</hi> at which the Archbiſhop was offended, and ſaid, God's Cauſe have thou, and mine for this Teaching, <hi>&amp;c.</hi> Thou ſaiſt it is not Lawful to take Tythes, thus thou giveſt to Levites of
+<pb n="4" facs="tcp:172978:3"/> Old Law, more freedom than to Prieſts of the New Law. To which <hi>W. Thorp</hi> anſwers; and I ſaid, Sir, I marvel that you under<g ref="char:EOLhyphen"/>ſtand this plain Text of <hi>Paul</hi> thus, Ye wot well that the Levites and Prieſts of the Old Law, that took Tythes, were not ſo free, nor ſo perfect, as Chriſt and his Apoſtles that took no Tythes: And Sir, there is a Doctor, (I think that is St. <hi>Jerom</hi>) that ſaith thus, The Prieſts that Challenge now in the New Law Tythes, ſay in effect, That Chriſt is not become Man, nor that he hath yet ſuffered Death for Man's Love; wherefore this Doctor ſaith this Sentence, Since Tythes were the Heirs and Wages limited to Levites, and to Prieſts of the Old Law, for bearing about of the Tabernacle, and for ſlaying of Beaſts, and burning of Sacrifices, <hi>&amp;c.</hi> Thoſe Prieſts that will challenge or take Tythes,
+<note place="margin">☞</note> deny that Chriſt is come in the Fleſh, and do the Prieſts Office of the Old Law, for whom Tythes were granted; for elſe, as this Doctor ſaith, Prieſts take now Tythes wrongfully. The Archbiſhop ſaid to his Clerks, Heard you ever <hi>Lozell</hi> ſpeak thus, <hi>&amp;c?</hi> Deeming what he ſaid, an Ex<g ref="char:EOLhyphen"/>punging the Freedom of Holy Church; to which <hi>William Thorp</hi> an<g ref="char:EOLhyphen"/>ſwers; and I ſaid, Sir, Why call ye the taking of Tythes, and of ſuch other Duties that Prieſts Challenge now wrongfully, the free<g ref="char:EOLhyphen"/>dom of Holy Church, ſince neither Chriſt, nor his Apoſtles chal<g ref="char:EOLhyphen"/>lenged, nor took ſuch Duties, therefore theſe takings of Prieſts now, are not called juſtly the freedom of Holy Church? But all ſuch giving and taking, ought to be called and holden the ſlanderous Covetouſneſs of Men of the Holy Church. And the Archbiſhop ſaid unto me, Why <hi>Lozell,</hi> wilt not thou, and other that are Confede<g ref="char:EOLhyphen"/>rate with thee, ſeek out of Holy Scripture, and of the Senſe of Do<g ref="char:EOLhyphen"/>ctors, all ſharp Authorities againſt Lords, Knights, and Eſquires; and againſt other Secular Men, as thou doſt againſt Prieſts? To which <hi>W. Thorp</hi> anſwers; and I ſaid, Sir, Whatſoever Men or Wo<g ref="char:EOLhyphen"/>men, Lords or Ladies, or any other that are preſent in our Preach<g ref="char:EOLhyphen"/>ing ſpecially, or in our Communing, after our Cunning, we tell out to them their Office, and their Charges: But Sir, ſince <hi>Chryſoſtom</hi> ſaith, That Prieſts are the Stomach of the People, it is needful in Preaching, and alſo in Communing, to be moſt buſie about this Prieſt<g ref="char:EOLhyphen"/>hood; ſince by the Viciouſneſs of Prieſts, both Lords and Commons are moſt ſinfully infected,
+<note place="margin">☞</note> and led into the Worſt: And becauſe that the Covetouſneſs of Prieſts, and Pride, and the boaſt that they have and make of their Dignity and Power; deſtroyeth not only the Vertues of Prieſthood in Prieſts themſelves, but alſo over this, it
+<pb n="5" facs="tcp:172978:3"/> ſtirreth God to take Great Vengeance, both upon the Lords, and upon the Commons, which ſuffer theſe Prieſts Charitably.</q> Thus far <hi>W. Thorp,</hi> as in the Book of Martyrs. Vol. I. p. 700, 708, Prin<g ref="char:EOLhyphen"/>ted 1641.</p>
+            <p>Now Reader, from all this precedent Diſcourſe obſerve, That Tythes have been long ſince deemed an Antichriſtian Yoak, and not ſo Ordained and Enacted by any Convocation of the Quakers, as <hi>F. B.</hi> falſly accuſeth them, p. 4. Neither do they <hi>hold a Government againſt the Government, nor ſummons their Elders ſo to do,</hi> as he alſo falſly charg<g ref="char:EOLhyphen"/>eth them, p. 4.</p>
+            <p>Alſo 'tis a Falſe, Cruel and Unnatural Conſequence, <hi>That they Ab<g ref="char:EOLhyphen"/>ſolve the King's Subjects from their Active Obedience,</hi> p. 4. Alſo it is a Groſs and Falſe Accuſation, That <hi>they hold a Convention Annually, by way of Convocation, to make Laws and Ordinances, contrary and repug<g ref="char:EOLhyphen"/>nant to the Laws and Statutes of this Realm, which tend to Subvert the Go<g ref="char:EOLhyphen"/>vernment, and that may be of dangerous Conſequence;</hi> all which beſpeaks an Envious, Perſecuting Spirit, as well as Notorious Falſhood, con<g ref="char:EOLhyphen"/>trary to the Intent and End of any of our Meetings, and to the Chri<g ref="char:EOLhyphen"/>ſtian Advice given in ſeveral of our Yearly Epiſtles, for a Peaceable, Quiet and Inoffenſive Converſation under the Civil Government.</p>
+            <p>And farther Obſerve, That the Impoſition of Tythes in the Go<g ref="char:EOLhyphen"/>ſpel Times, by the Pope, and by Popiſh Laws, Penalties and Perſe<g ref="char:EOLhyphen"/>cution, ſhould be deem'd Antichriſtian, is no new thing, 'tis no Law, Cannon nor Edict, Contrived at either of our Yearly Meetings, Charged by this Preſumptuous Impeacher, as is evident, being ſo ad<g ref="char:EOLhyphen"/>judged both by thoſe former Famous Proteſtants and Martyrs, as al<g ref="char:EOLhyphen"/>ſo by our Friends ever ſince we were a People.</p>
+            <p>He argues Unchriſtianly, and but like the Popiſh Biſhops, Prieſts, and Perſecutors againſt the Martyrs, in his Conſtruing, That our Judgment is againſt the King, Parliament, Laws or Government, be<g ref="char:EOLhyphen"/>cauſe he ſuppoſes them alſo Zealous for Tythes, which is no Chriſti<g ref="char:EOLhyphen"/>an, but a Popiſh Perſecutors Argument, and no proof of the Truth of what he would promote.</p>
+            <p>He may ſee that <hi>William Thorp</hi> reflects on both great Men, Lords and Commons, for upholding the Prieſts in their Covetouſneſs by Tythes, <hi>&amp;c.</hi> yet <hi>F. Bugg</hi> by his Miſchievouſly, Malicious Conſequence againſt us, would make us Obnoxious, to Incenſe the Government unto a New Perſecution againſt us, although ſuch Impoſition and Per<g ref="char:EOLhyphen"/>ſecution for Tythes as we have Teſtified againſt, does not ſo Effect the preſent Government as he would inſinuate, but the contrary, ſee<g ref="char:EOLhyphen"/>ing
+<pb n="6" facs="tcp:172978:4"/> we are not under a Perſecuting Government now, neither did the preſent Government make any of thoſe Old ſevere Laws for Tythes, which were made in Popiſh Times, as in King <hi>Henry</hi> VIII. Days, and others; but even in ſundry Seſſions of Parliament, within this Three or Four Years, endeavours have been uſed to mitigate the Penalty, and to prevent Impriſonment on Excommunication, <hi>&amp;c.</hi> by ſeveral Bills prepared in Each Houſe of Parliament, for the more Eaſie Recovery of Small Tythes.</p>
+            <p>His Hideous Railing Aſperſions and Calumnies caſt upon our Friend <hi>G. VV.</hi> we have no Cauſe to Credit, he's better known to us to be a Man of an Honeſt and Peaceable Converſation, as well as of Good Fame and Reputation among Men, and therefore look on <hi>F. Bugg</hi>'s Railing and Calumnies againſt him, as proceeding from meer Malice and Revenge, chiefly becauſe <hi>G. VV.</hi> has frequently Antici<g ref="char:EOLhyphen"/>pated his Wicked Deſigns, by Unmasking him, and Confuting his Malicious Aſperſions and Calumnies in his Lying Pamphlets.</p>
+            <p>Our Perſecuting Adverſary boaſts of his proffering to meet <hi>G. W.</hi> and of his coming up to <hi>London,</hi> and accepting <hi>G. W</hi>'s offer in his <hi>Vindication, &amp;c.</hi> which offer was, to make it plainly appear before any Ten or Twelve Competent Witneſſes,
+<note place="margin">☞</note> That <hi>Fran. Bugg</hi> has Groſly and Wickedly Abuſed and Perverted Truth, and wrong'd the People called Quakers, both in Charge, Citation and Obſervation, p. 5. which was in Relation to <hi>F. B</hi>'s Malicious Sheet Pamphlet, which he delivered to the Members of Parliament, to whom alſo <hi>G. W</hi>'s Anſwer in plain Confutation thereof was after delivered. But <hi>F. B.</hi> here leaves out part of <hi>G. VV</hi>'s Charge therein exhibited a<g ref="char:EOLhyphen"/>gainſt him, <hi>viz.</hi>
+            </p>
+            <q>
+               <p>And that in his late Book, <hi>New</hi> Rome <hi>Arraigned,</hi> he has forged Notorious Lies in other Mens Names, to Ridicule, Defame, and Scandalize divers Citizens of <hi>London,</hi> and Men of good Repute, Condemning them alſo to the Pillory as <hi>Perjured Perſons,</hi> in his pre<g ref="char:EOLhyphen"/>tended Trial in a Way of Judicature, Unwarrantably Acted by him<g ref="char:EOLhyphen"/>ſelf, aſſuming the Place of both Judge, Accuſer, Jury, Condemner and Executioner, with a Form of a Pillory, and Effigies in it, to repreſent the Perſons ſo groſly Scandalized by him, <hi>Quakers Vindi<g ref="char:EOLhyphen"/>cation,</hi> p. 4.</p>
+            </q>
+            <p>But <hi>F. B.</hi> being Conſciencious to himſelf, was willing to evade this Charge, by Framing New Articles againſt <hi>G. W.</hi> and making his own Terms of leaving Matters to the Judgment and Deciſion of ſuch as he calls Diſ-intereſted Perſons, namely, any Six, Ten or Twelve
+<pb n="7" facs="tcp:172978:4"/> Perſons equally Choſen out of the <hi>Epiſcopalians, Presbyterians, Inde<g ref="char:EOLhyphen"/>pendants</hi> or <hi>Baptiſts,</hi> as he now again relates, to whoſe Judgment and Deciſion <hi>G. W.</hi> did not think it Reaſonable to refer Matters of <hi>Re<g ref="char:EOLhyphen"/>ligion</hi> and <hi>Conſcience,</hi> which were part of the Controverſie between them, nor on ſuch Implicite Terms, to give away and betray his own Conſcience and Religious Perſwaſion, to thoſe of different Per<g ref="char:EOLhyphen"/>ſwaſions from him, which therefore were not Diſ-intereſted Perſons, as <hi>F. B.</hi> calls them: Yet nevertheleſs many are Witneſſes, that <hi>G. W.</hi> did purſuant to his Charge, ſend <hi>F. Bugg</hi> divers <hi>Challenges,</hi> when in the City, and appointed, and gave him ſufficient notice before-hand of divers Meetings, for a fair Diſcourſe or Diſpute of all the Matters in Charge Interchangeably between them, both before <hi>Competent Witneſſes,</hi> according as firſt propoſed, but <hi>F. B.</hi> to evade and ſhift off ſuch a Diſquiſition, ſtill inſiſted upon leaving Matters to the Judg<g ref="char:EOLhyphen"/>ment and Deciſion of <hi>Epiſcopalians,</hi> (as he Terms them) <hi>Presbyteri<g ref="char:EOLhyphen"/>ans, Independants</hi> and <hi>Baptiſts,</hi> as before, p. 5, 6.</p>
+            <p>But now ſee how knowingly Unfair his Propoſal herein was, after in his Introduction he thus falſly Rails againſt <hi>G. W.</hi> and the Quakers Books, as none ſo Bad, none ſo Groſs, none ſo Blaſphemous, but <hi>G. Whitehead,</hi> the Quakers <hi>Bellarmine,</hi> will undertake to Vindicate them, who for this Forty Years, and upward, hath been like <hi>Iſh<g ref="char:EOLhyphen"/>mael,</hi> his Hand againſt <hi>Epiſcopalians,</hi> againſt <hi>Presbyterians, Indepen<g ref="char:EOLhyphen"/>dants</hi> and <hi>Baptiſts, and theirs againſt him,</hi> p. 2. Such then are <hi>F. Bugg</hi>'s Diſ-intereſted Perſons, whoſe Hand is againſt <hi>G. W.</hi> as he confeſſeth, and yet would have him leave the Matters of Fact in Controverſie, (wherein Doctrine was concerned) to their Judgment and Deciſion, which <hi>G. W.</hi> not aſſenting to <hi>F. B. always refuſed to diſcourſe him,</hi> as he confeſſeth, p. 5. So that <hi>G. W.</hi> muſt either before-hand Engage to ſubmit to the Judgment and Deciſion of his Adverſaries, whoſe Hands are againſt him (as <hi>F. B.</hi> ſaith) or elſe no Meeting to Diſ<g ref="char:EOLhyphen"/>courſe or Diſpute <hi>F. Bugg.</hi> Oh Miſerable! What Man of Sence, Religion or Conſcience, will proſtrate both to ſuch his Partial Di<g ref="char:EOLhyphen"/>ctates? But <hi>G. W</hi>'s offer to him was more Generous, Free and Eaſie, namely, to prove his ſaid Charge againſt him, and Diſpute Matters before <hi>any Ten or Twelve Competent Witneſſes,</hi> who were Moderate Men of Common Senſe) leaving them free to their Judgments, as God ſhould perſwade them, as we all ſhould be left, and as <hi>F. B.</hi> would be loath to be pre-engaged himſelf to ſubmit to the Judgment and Deciſion of his Adverſaries and Enemies, even in Civil Things, much leſs in Religious, if he hath any Religion left in him) and we doubt
+<pb n="8" facs="tcp:172978:5"/> not but <hi>G. W.</hi> is ſtill ready to make good his Offer and Charge againſt <hi>F. B.</hi> on the ſame Free and Equal Terms, as firſt by him propoſed in his ſaid <hi>Vindication,</hi> p. 4.</p>
+            <closer>
+               <dateline>London, <date>
+                     <hi>the</hi> 4. <hi>of the 4th. Month,</hi> 1695.</date>
+               </dateline>
+               <signed>
+                  <hi>Signed on Behalf of our Friends and Yearly Meeting, (ſo peremptorily Impeached by</hi> Fran. Bugg) <hi>by</hi>
+                  <list>
+                     <item>John Vaughton,</item>
+                     <item>Samuel Watſon,</item>
+                     <item>John Field,</item>
+                     <item>Thomas Lower,</item>
+                     <item>William Bingley.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed and Sold by <hi>T. Sowle,</hi> near the <hi>Meeting-houſe</hi> in <hi>White-Hart-Court,</hi> in <hi>Gracious-Street.</hi> 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
